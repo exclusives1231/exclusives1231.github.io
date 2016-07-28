@@ -1,0 +1,134 @@
+/* Add UTF-8 charset */
+body{
+     
+}
+
+nav{	
+	text-align: center;
+}
+		
+.jumbotron{
+	text-align: center;
+    text-shadow: 1px 1px 6px #000000;
+    
+    background-image: url("NolaBackground.jpg");	
+	background-repeat: no-repeat;
+	background-position: center;  
+    background-attachment: fixed;
+}
+
+#head{
+	color: green;
+	font-size: 80px;
+    text-shadow: 1px 1px 10px #000000;
+    
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#description{
+    text-align: center;
+    color: gold;
+	font-size: 40px;
+    text-shadow: 1px 1px 10px #000000;
+     
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+#content{
+ 
+}
+
+/* List of Links */
+
+#links{
+   background-color: purple;
+    color: skyblue;
+    text-shadow: 1px 1px 1px #000000;
+    letter-spacing: 1px;
+    
+    margin: 0px 20px 30px 10px;
+    float: left;
+    padding: 10px;
+    
+    border-style: groove;
+    border-width: thick;
+    border-color: green;
+}
+
+
+/* Table */
+
+#tablestuff{
+	color: skyblue;
+	background-color: purple;
+    
+    margin: 30px;
+    padding: 10px;
+    
+    border-style: groove;
+    border-width: thick;
+    border-color: green;
+}
+
+
+/* List */
+
+#list{	
+    text-align: left;
+	color: skyblue;
+	background-color: purple;
+    
+    float: right;
+    margin: 0px 10px 0px 30px ;
+   
+    padding: 10px;
+    max-width: 300px;
+    
+    border-style: groove;
+    border-width: thick;
+    border-color: green;
+}
+	
+
+/* form */
+
+#forms{
+    display: block;
+    float: right;
+    color: gold;
+}
+
+	
+/*Social Links */
+
+
+#social{
+    
+   text-align: center;
+    display: inline-flex;
+    font-size: 20px;
+    margin: 50px;
+}
+
+
+/* Footer */
+
+footer{
+	text-align: center;
+	width: 200px;
+	margin: 50px auto 20px auto;
+}
+
+a:link{
+	color: green;
+	text-decoration: none;
+}
+	
+
+:hover{
+	color: gold;	
+}
+
